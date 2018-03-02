@@ -1,0 +1,20 @@
+QT-P3
+Race and Hispanic or Latino: 2000
+
+NOTE:  For information on confidentiality protection,
+nonsampling error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/sf1.pdf
+
+
+
+
+Source: U.S. Census Bureau, Census 2000 Summary File 1, Matrices
+P3, P4, PCT4, PCT5, PCT8, and PCT11.
+
+
+
+
+(X) Not applicable.
+
+
+
