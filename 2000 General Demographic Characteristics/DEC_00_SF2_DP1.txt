@@ -1,0 +1,26 @@
+DP-1
+Profile of General Demographic Characteristics: 2000
+
+NOTE: For information on confidentiality protection, nonsampling
+error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/sf2.pdf
+
+
+
+
+Source: U.S. Census Bureau, Census 2000 Summary File 2, Matrices
+PCT3, PCT4, PCT8, PCT9, PCT10, PCT11, PCT14, PCT18, PCT19, PCT23,
+PCT26, HCT2, and HCT5.
+
+
+
+
+(X) Not applicable.
+
+
+
+When a race or ethnic group is selected, the data in this table
+refer to the race, Hispanic or Latino origin, or American Indian or
+Alaska Native tribe of the householder.
+
+
