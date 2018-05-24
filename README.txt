@@ -12,4 +12,4 @@ Choose a city or region in the US and, drawing on census, economic data, reports
 3) BASED ON ANALYSIS: Present recommendations for workforce development strategies for the urban poor in this city.
 
 
-Deliverable: Working alone or in a group of up to three students, write up of findings, analysis and key recommendations. Paper 7-10 pages
+Deliverable: Working alone or in a group of up to three students, write up of findings, analysis and key recommendations. 
